@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/id-suscipit-molestiae-similique",
-  "version": "12.26.315",
+  "version": "13.26.315",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -397,5 +397,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/id-suscipit-molestiae-similique/issues"
   },
-  "packageManager": "yarn@4.8.1"
+  "packageManager": "yarn@4.9.0"
 }
